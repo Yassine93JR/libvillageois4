@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libvillageois", "libvillageois\libvillageois.csproj", "{1C02FC0E-A928-47A4-AEAE-E484A626A15E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Village", "Village\Village.csproj", "{516F8C24-43A4-499F-A7AD-DD0074D80BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C02FC0E-A928-47A4-AEAE-E484A626A15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C02FC0E-A928-47A4-AEAE-E484A626A15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C02FC0E-A928-47A4-AEAE-E484A626A15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C02FC0E-A928-47A4-AEAE-E484A626A15E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{516F8C24-43A4-499F-A7AD-DD0074D80BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516F8C24-43A4-499F-A7AD-DD0074D80BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516F8C24-43A4-499F-A7AD-DD0074D80BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516F8C24-43A4-499F-A7AD-DD0074D80BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B4BB27-F700-46B3-9A32-10A2B47077F4}
+	EndGlobalSection
+EndGlobal
